@@ -1,7 +1,7 @@
 [Appetizer](#appetizer) | ... | [Beverages](#beverages)
 
 ## Appetizer
-| Name       | Description                 |Image                   | Price  |
+| Food Name       | Description                 |Image                   | Price  |
 |:-----------|:----------------------------|------------------------|-------:|
 |*Angry Bird Sushi*|Creative sushi menu with a cute Angry Bird on top|![Angry Sushi](/images/angry-bird-sushi.png)|฿5|
 |*Baked Piroshki*|Traditional Russian stuffed roll filled with cabbage and beef|![Baked Piroshki](/images/piroshki.jpg)|฿30|
@@ -14,4 +14,4 @@
 
 Beverage Name|Description|Image|Price
 ---|---|---|---
-Cappuccino|Espresso-based coffee drink that is traditionally prepared with steamed milk including a layer of milk foam|![Cappuccino](images/cappuccino.jpg)|฿69|
+*Cappuccino*|Espresso-based coffee drink that is traditionally prepared with steamed milk including a layer of milk foam|![Cappuccino](images/cappuccino.jpg)|฿69|
