@@ -37,7 +37,7 @@ Food Name|Description|Image|Price
 *Hayashi Rice*|A beef and mushroom stew served over rice, typically flavored with a demi-glace sauce. Maid cafes might present this dish with the stew poured over the rice in the shape of a heart or other cute designs.|![Picture of Hayashi Rice](./images/hayashi_rice.jpg)|฿13.50
 *Yakimeshi*|A Japanese-style fried rice dish cooked with various ingredients such as vegetables, meat, and sometimes seafood. Maid cafes may serve Yakimeshi with a cute presentation, such as shaping the rice into hearts or other playful designs, adding a touch of whimsy to this flavorful and comforting dish.|![Picture of Yakimeshi](./images/yakimeshi.jpg)|฿11.99
 
-## Soup Menu Section
+## Soup
 | Food Name              | Description         | Image          | Price  |
 |:-----------------------|:--------------------|:---------------|-------:|
 | *Andy Worhol's Campbell Tomato Soup* | A delicious tomato soup made from the famous Campbell's Soup Cans. |  ![alt text](images/tomato-soup.png)| ฿350|
