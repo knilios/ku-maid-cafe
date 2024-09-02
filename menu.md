@@ -14,4 +14,4 @@
 
 Beverage Name|Description|Image|Price
 ---|---|---|---
-Oolong tea|The best tea imported directly from Shanghai, China to your table! The fragrance of the tea will make you stay awake in the afternoon!|!![Oolong Tea](images/Oolong-tea.png)|฿100|
+Oolong tea|The best tea imported directly from Shanghai, China to your table! The fragrance of the tea will make you stay awake in the afternoon!|![Oolong Tea](images/Oolong-tea.png)|฿100|
