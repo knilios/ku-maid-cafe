@@ -6,5 +6,5 @@ Write a one or two sentence description of your cafe.
 
 | Cuisine                                   | Contributor                  |
 |:------------------------------------------|------------------------------|
-| [Junk Food](menu.md#junk-food)            | Bill Gates                   |
 | [Rice Dishes](menu.md#rice-dishes)        | Pawat Sarnchawanakit         |
+| [Noodles](menu.md#Noodles)                | Oak Soe Htet                 |
