@@ -1,6 +1,23 @@
 ## Menu
 
-[Noodles](#noodles) | [Rice Dishes](#rice-dishes) | [Desserts](#desserts) | [Beverages](#beverages)
+[Appetizer](#appetizer) | [Noodles](#noodles) | [Rice Dishes](#rice-dishes) | [Desserts](#desserts) | [Beverages](#beverages)
+
+## Appetizer
+| Food Name       | Description                 |Image                   | Price  |
+|:-----------|:----------------------------|------------------------|-------:|
+|*Angry Bird Sushi*|Creative sushi menu with a cute Angry Bird on top|![Angry Sushi](/images/angry-bird-sushi.png)|฿5|
+|*Baked Piroshki*|Traditional Russian stuffed roll filled with cabbage and beef|![Baked Piroshki](/images/piroshki.jpg)|฿30|
+|*Beef-Cheese Fondue*|Creamy cheddar cheese fondue with A5 Wagyu beef. Served with French bread|![Beef-Cheese Fondue](/images/beef-cheese-fondue.webp)|฿200|
+|*Kanom Jeeb Moo*|Thai version of Chinese Pork dumplings with delicious wonton dipping sauce|![Kanom Jeeb](/images/kanom-jeeb.jpg)|฿25|
+|*Shirazi Salad*|Persian salad consisting of cucumber, tomato, onion, olive oil, herbal spices and verjuice|![Shirazi Salad](/images/shirazi-salad.jpg)|฿109|
+
+## Desserts
+| Food Name                  | Description | Image | Price |
+|:---------------------------|:------------|:------|:------|
+| *Bone Marrow Crème Brulée* | Rich custard base topped with a layered of hardened caramelized sugar. Combined with bone marrow to amplifie the richness of the dish. | ![Bone Marrow Crème Brulée](images/Bone_Marrow_Creme.jpg)| ฿299 |
+| *Matcha Tiramisu* | The classic Italian dessert twisted with matcha green tea powder to give vibrant green color and the taste of Japan. | ![Matcha Tiramisu](images/Matcha_Tiramisu.jpg) | ฿59 |
+| *Spicy Chocolate Cake with Chilies* | A cake that combined chocolate and chillies to create a unique flavor. | ![Spicy Chocolate Cake with Chilies](images/Chilies%20Chocolate%20Cake.jpg) | ฿249 |
+| *White Chocolate and Wasabi Cheesecake* | A cheesecake shaped up with a crushed biscuit base, topped off with cream cheese, wasabi, and a white chocolate filling. | ![White Chocolate and Wasabi Cheesecake](images/White_Chocolate_Wasabi_Cheesecake.jpg)| ฿149 |
 
 ## Noodles
 
@@ -21,18 +38,11 @@ Food Name|Description|Image|Price
 *Yakimeshi*|A Japanese-style fried rice dish cooked with various ingredients such as vegetables, meat, and sometimes seafood. Maid cafes may serve Yakimeshi with a cute presentation, such as shaping the rice into hearts or other playful designs, adding a touch of whimsy to this flavorful and comforting dish.|![Picture of Yakimeshi](./images/yakimeshi.jpg)|฿11.99
 
 
-## Desserts
-| Food Name                  | Description | Image | Price |
-|:---------------------------|:------------|:------|:------|
-| *Bone Marrow Crème Brulée* | Rich custard base topped with a layered of hardened caramelized sugar. Combined with bone marrow to amplifie the richness of the dish. | ![Bone Marrow Crème Brulée](images/Bone_Marrow_Creme.jpg)| ฿299 |
-| *Matcha Tiramisu* | The classic Italian dessert twisted with matcha green tea powder to give vibrant green color and the taste of Japan. | ![Matcha Tiramisu](images/Matcha_Tiramisu.jpg) | ฿59 |
-| *Spicy Chocolate Cake with Chilies* | A cake that combined chocolate and chillies to create a unique flavor. | ![Spicy Chocolate Cake with Chilies](images/Chilies%20Chocolate%20Cake.jpg) | ฿249 |
-| *White Chocolate and Wasabi Cheesecake* | A cheesecake shaped up with a crushed biscuit base, topped off with cream cheese, wasabi, and a white chocolate filling. | ![White Chocolate and Wasabi Cheesecake](images/White_Chocolate_Wasabi_Cheesecake.jpg)| ฿149 |
-
 ## Beverages
 
 Beverage Name|Description|Image|Price
 ---|---|---|---
+*Cappuccino*|Espresso-based coffee drink that is traditionally prepared with steamed milk including a layer of milk foam|![Cappuccino](images/cappuccino.jpg)|฿69|
 *Chocolate Cocoa* | A warm and comforting beverage made from cocoa powder, milk, and sugar. It can be topped with whipped cream or marshmallows. |![image5](images/ChocolateCocao.JPG)|฿30|
 *Matcha Latte*|A creamy and frothy matcha latte made with high-quality matcha powder and steamed milk, topped with cute latte art.|![Picture of Matcha Latte](./images/macha_latte.jpg)|฿5.99|
 *Pickle Soda Pop*|Soda mixed with pickle juice, has a tangy and salty flavor.|![Pickle Soda Pop](images/Pickle_Soda_Pop.jpg)|฿25|
