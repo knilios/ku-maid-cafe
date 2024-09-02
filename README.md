@@ -6,5 +6,4 @@ Write a one or two sentence description of your cafe.
 
 | Cuisine                               | Contributor        |
 |:--------------------------------------|--------------------|
-| [Junk Food](menu.md#junk-food)        | Bill Gates         |
 | [Soup Menu](menu.md#soup-menu-section)| Kristawan Jaroenrad|
