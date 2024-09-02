@@ -1,9 +1,9 @@
-# Name of Your Cafe
+# KU Maid Cafe
 
-Write a one or two sentence description of your cafe.
+Self-proclaimed maid cafe that serve cursed menu.
 
 ## [Menu](menu.md)
 
 | Cuisine                               | Contributor        |
 |:--------------------------------------|--------------------|
-| [Junk Food](menu.md#junk-food)        | Bill Gates         |
+| [Desserts](menu.md#junk-food)        | Phasin Sae-ngow         |
