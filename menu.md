@@ -11,3 +11,6 @@
 | *White Chocolate and Wasabi Cheesecake* | A cheesecake shaped up with a crushed biscuit base, topped off with cream cheese, wasabi, and a white chocolate filling. | ![White Chocolate and Wasabi Cheesecake](images/White_Chocolate_Wasabi_Cheesecake.jpg)| ฿149 |
 
 ## Beverages
+| Beverage name     | Description | Image | Price |
+|:------------------|:------------|:------|:------|
+| *Pickle Soda Pop* | Soda mixed with pickle juice, has a tangy and salty flavor. | ![Pickle Soda Pop](images/Pickle_Soda_Pop.jpg) | ฿25 |
