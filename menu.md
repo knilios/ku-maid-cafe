@@ -1,6 +1,6 @@
 ## Menu
 
-[Appetizer](#appetizer) | [Noodles](#noodles) | [Rice Dishes](#rice-dishes) | [Desserts](#desserts) | [Beverages](#beverages)
+[Appetizer](#appetizer) | [Noodles](#noodles) | [Rice Dishes](#rice-dishes) | [Desserts](#desserts) | [Soup Menu Section](#soup-menu-section) | [Beverages](#beverages)
 
 ## Appetizer
 | Food Name       | Description                 |Image                   | Price  |
@@ -37,6 +37,13 @@ Food Name|Description|Image|Price
 *Hayashi Rice*|A beef and mushroom stew served over rice, typically flavored with a demi-glace sauce. Maid cafes might present this dish with the stew poured over the rice in the shape of a heart or other cute designs.|![Picture of Hayashi Rice](./images/hayashi_rice.jpg)|฿13.50
 *Yakimeshi*|A Japanese-style fried rice dish cooked with various ingredients such as vegetables, meat, and sometimes seafood. Maid cafes may serve Yakimeshi with a cute presentation, such as shaping the rice into hearts or other playful designs, adding a touch of whimsy to this flavorful and comforting dish.|![Picture of Yakimeshi](./images/yakimeshi.jpg)|฿11.99
 
+## Soup Menu Section
+| Food Name              | Description         | Image          | Price  |
+|:-----------------------|:--------------------|:---------------|-------:|
+| *Andy Worhol's Campbell Tomato Soup* | A delicious tomato soup made from the famous Campbell's Soup Cans. |  ![alt text](images/tomato-soup.png)| ฿350|
+| *Broken Pasta Soup*   | A very delicious soup containing brown onion, broken spaghetti and broken Italians' hearts.   | ![Broken Pasta Soup](images/broken-pasta-soup.png) | ฿120  |
+| *Canned Fish Tom Yum* | A luxurious soup Thai people often eat at the end of the month. The fish bone is soft and delicious! | ![alt text](images/canned-tom-yum.png) | ฿600 |
+| *Sushi Soup*          | A simple but delicious soup will make you happy. We boiled salmon sushi to perfection, so it is tender and chewy. | ![Sushi soup](images/sushi-soup.png)| ฿60 |
 
 ## Beverages
 
@@ -45,4 +52,5 @@ Beverage Name|Description|Image|Price
 *Cappuccino*|Espresso-based coffee drink that is traditionally prepared with steamed milk including a layer of milk foam|![Cappuccino](images/cappuccino.jpg)|฿69|
 *Chocolate Cocoa* | A warm and comforting beverage made from cocoa powder, milk, and sugar. It can be topped with whipped cream or marshmallows. |![image5](images/ChocolateCocao.JPG)|฿30|
 *Matcha Latte*|A creamy and frothy matcha latte made with high-quality matcha powder and steamed milk, topped with cute latte art.|![Picture of Matcha Latte](./images/macha_latte.jpg)|฿5.99|
+*Oolong tea*|The best tea imported directly from Shanghai, China to your table! The fragrance of the tea will make you stay awake in the afternoon!|![Oolong Tea](images/Oolong-tea.png)|฿100|
 *Pickle Soda Pop*|Soda mixed with pickle juice, has a tangy and salty flavor.|![Pickle Soda Pop](images/Pickle_Soda_Pop.jpg)|฿25|
