@@ -1,6 +1,6 @@
 ## Menu
 
-[Appetizer](#appetizer) | [Noodles](#noodles) | [Rice Dishes](#rice-dishes) | [Desserts](#desserts) | [Soup Menu Section](#soup-menu-section) | [Beverages](#beverages)
+[Appetizer](#appetizer) | [Noodles](#noodles) | [Rice Dishes](#rice-dishes) | [Desserts](#desserts) | [Soup](#soup-menu-section) | [Beverages](#beverages)
 
 ## Appetizer
 | Food Name       | Description                 |Image                   | Price  |
