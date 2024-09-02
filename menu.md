@@ -1,6 +1,4 @@
-# Rattapoom Pethputong 6610545499
-
-[Appetizer](#Appetizer) | ... | [Beverages](#beverages)
+[Appetizer](#appetizer) | ... | [Beverages](#beverages)
 
 ## Appetizer
 | Name       | Description                 |Image                   | Price  |
