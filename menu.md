@@ -14,5 +14,6 @@
 
 ## Beverages
 
-> A table of beverages. Each team member adds one beverage (one row) to the table.
-> Result should be in alphabetical order by beverage name.
+Beverage Name|Description|Image|Price
+---|---|---|---
+Cappuccino|Espresso-based coffee drink that is traditionally prepared with steamed milk including a layer of milk foam|![Cappuccino](images/cappuccino.jpg)|฿69|
