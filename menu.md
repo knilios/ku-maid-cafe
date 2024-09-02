@@ -1,6 +1,6 @@
 ## Menu
 
-[First Food Section](#first-food-section) | ... | [Beverages](#beverages)
+[Noodles](#Noodles) | ... | [Beverages](#beverages)
 
 ## Noodles
 
@@ -17,6 +17,3 @@
 Beverage Name|Description|Image|Price
 ---|---|---|---
 Chocolate Cocoa | A warm and comforting beverage made from cocoa powder, milk, and sugar. It can be topped with whipped cream or marshmallows. |![image5](images/ChocolateCocao.JPG)|฿30
-
-> A table of beverages. Each team member adds one beverage (one row) to the table.
-> Result should be in alphabetical order by beverage name.
